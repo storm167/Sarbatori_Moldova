@@ -1,76 +1,69 @@
-# Sărbători Moldova - Calendar .ICS 📅
+# Sărbători Moldova – Calendare .ICS 📅
 
-Acest proiect îți permite să adaugi cu ușurință sărbătorile din Moldova (naționale și religioase) în calendarul tău digital, inclusiv sărbătorile schimbătoare bazate pe Paștele ortodox. Fișierul generat este compatibil cu aplicații populare precum Google Calendar, Apple Calendar și Outlook.
+Calendare gata de importat în Google Calendar, Apple Calendar sau Outlook, în **două variante** independente:
 
-## Fișiere incluse în acest proiect 📂:
+| Fișier | Conținut |
+|---|---|
+| **`Sarbatori_Laice_Moldova.ics`** | Sărbători naționale și laice (calendar civil): Anul Nou, 8 Martie, Ziua Muncii, Ziua Europei/Victoriei, Ziua Independenței, Limba Noastră, Crăciunul pe stil nou etc. |
+| **`Sarbatori_Ortodoxe_Moldova.ics`** | Calendarul bisericesc ortodox **pe stil vechi**: praznice împărătești și ale Maicii Domnului, sfinți mari, **fiecare duminică cu numele ei**, posturi, Triodul și Penticostarul. |
 
-- **Festivitati Moldova.ics** – Fișierul final cu toate sărbătorile importante din Moldova, incluzând sărbătorile cu dată fixă și sărbătorile bazate pe Paștele ortodox.
-- **HolidaysOriginal.ics** – Fișierul care conține doar sărbătorile cu dată fixă.
-- **generate_Easter.py** – Script Python care calculează și generează datele sărbătorilor schimbătoare, legate de Paștele ortodox.
-- **merge_calendars.py** – Script care combină sărbătorile din fișierele anterioare într-un singur fișier ICS pentru a-l importa rapid în calendarul tău.
+Poți importa unul singur sau pe amândouă. Dacă importi ambele, nu apar duplicate: Crăciunul de pe 25 decembrie (stil nou) e în calendarul laic, iar cel de pe 7 ianuarie (stil vechi) în cel ortodox.
 
----
-
-## Cum să adaugi sărbătorile din Moldova în Google Calendar, Apple Calendar sau Outlook? 🗓️
-
-### Partea 1: Pentru utilizatorii finali (adăugare rapidă în calendar) 🏃‍♂️ 
-
-Dacă dorești doar să adaugi sărbătorile din Moldova direct în calendarul tău, urmează acești pași simpli:
-
-1️⃣ **Descarcă fișierul Festivitati Moldova.ics**:
-   - [Descarcă Festivități Moldova.ics](https://raw.githubusercontent.com/storm167/Sarbatori_Moldova/refs/heads/master/Festivități%20Moldova.ics
-)
-
-2️⃣ **Importă fișierul în aplicația ta de calendar**:
-
-   **Google Calendar 📅**:
-   - Accesează [Google Calendar](https://calendar.google.com)
-   - Mergi la „Setări” → „Import & Export”
-   - Selectează fișierul Festivitati Moldova.ics și importă-l.
-
-   **Apple Calendar (iPhone 🍎)**:
-   - Trimite fișierul .ics pe iPhone prin e-mail sau AirDrop.
-   - Apasă pe fișier și selectează „Adaugă în Calendar”.
-
-   **Outlook Calendar 📧**:
-   - Deschide Outlook și navighează la calendar.
-   - Selectează „Importă” și alege fișierul Festivitati Moldova.ics.
-
-### Partea 2: Pentru dezvoltatori (vizualizează și modifică codul sursă 💻). Recomandat într-un mediu virtual.
-
-Dacă ești un dezvoltator și dorești să explorezi sau să modifici codul sursă, urmează acești pași:
-
-1️⃣ **Generează sărbătorile mobile 📆**:
-   - În terminal, rulează următorul cod Python pentru a calcula sărbătorile bazate pe Paștele ortodox:
-     ```bash
-     python3 generate_easter.py
-     ```
-
-2️⃣ **Combină toate sărbătorile într-un singur fișier 🔗**:
-   - Rulează scriptul pentru a crea fișierul ICS complet cu toate sărbătorile:
-     ```bash
-     python3 merge_calendars.py
-     ```
-
-3️⃣ **Importă fișierul generat 📥**:
-   - Fișierul final „Festivitati Moldova.ics” poate fi acum importat în calendarul tău digital.
-
-### Observații importante ⚠️:
-
-- Este necesar să ai Python 3 instalat pe sistemul tău.
-- Dacă vrei să modifici numărul de ani pentru care generezi sărbătorile, editează fișierul `generate_Easter.py`.
-- Dacă întâmpini probleme sau ai întrebări, deschide un „Issue” pe [GitHub](https://github.com/storm167/Sarbatori_Moldova/issues).
-
-### Contribuie la proiect 🙌:
-
-Vrei să adaugi noi sărbători sau să îmbunătățești proiectul? Poți contribui pe GitHub și să împărtășești sugestiile tale cu comunitatea!
+Intervalul implicit este **2025–2040**.
 
 ---
 
-## Căutări populare 🔍:
+## Ce conține calendarul ortodox
 
-- Calendar Moldova 2025 📅
-- Sărbători religioase Moldova ☦️
-- Paște ortodox Moldova 🕊️
-- Adaugă sărbători în Google Calendar 📲
-- Calendar național Moldova ICS 🗓️
+Totul se **calculează automat** din data Paștelui ortodox, nu este scris de mână pentru fiecare an.
+
+- **Triodul**: Duminica Vameșului și a Fariseului, Fiului Risipitor, Înfricoșătoarei Judecăți (Lăsatul secului de carne), Izgonirii lui Adam din Rai (Lăsatul secului de brânză), cele 5 duminici din Postul Mare, Sâmbăta Acatistului, Sâmbăta lui Lazăr, Floriile și toată Săptămâna Patimilor.
+- **Penticostarul**: Paștele, Săptămâna Luminată, Duminica Tomii, Paștele Blajinilor, Mironosițele, Slăbănogul, Samarineanca, Orbul, Sfinții Părinți de la Sinodul I, Înălțarea, Rusaliile și Sfânta Treime.
+- **Duminicile după Rusalii**: numerotate (a 1-a, a 2-a…) până la începutul Triodului. Unele au și un nume special calculat după data iuliană: Duminica Tuturor Sfinților, Duminica dinaintea/după Înălțarea Sfintei Cruci, Sfinții Părinți de la Sinodul VII, Sfinții Strămoși, Sfinții Părinți, duminica după Naștere, înainte și după Botez, Duminica Cananeencei.
+- **Posturi** (ca evenimente pe mai multe zile): Postul Mare, Postul Sfinților Apostoli (există doar în anii în care Paștele nu e prea târziu), Postul Adormirii și Postul Crăciunului.
+- **Praznice cu dată fixă**, trecute pe stil vechi: de exemplu, Crăciunul din 25 decembrie cade pe **7 ianuarie**. Fiecare eveniment are în descriere data pe stil vechi.
+
+Zilele libere legale legate de biserică sunt marcate în descriere (7–8 ianuarie, Paște, Lunea Paștelui, Paștele Blajinilor).
+
+> ⚠️ Lista zilelor libere o poți verifica în Codul muncii al Republicii Moldova (art. 111). Eu am marcat ce știam, dar legislația se mai schimbă.
+
+---
+
+## Cum le adaugi în calendar 🗓️
+
+1. Descarcă fișierele `.ics` de aici (butonul „Download raw file” pe GitHub).
+2. Importă-le:
+   - **Google Calendar**: [calendar.google.com](https://calendar.google.com) → Setări → *Import & export* → alege fișierul și calendarul de destinație.
+   - **Apple Calendar**: dublu-click pe fișier (sau trimite-l pe iPhone prin AirDrop/e-mail) → „Adaugă în Calendar”.
+   - **Outlook**: Calendar → *Adaugă calendar* → *Din fișier*.
+
+💡 Recomand să creezi un **calendar nou** pentru fiecare fișier (de exemplu „Sărbători ortodoxe”). Așa îl poți ascunde sau șterge dintr-un singur click. Evenimentele au UID stabil, deci reimportarea aceluiași fișier nu creează duplicate.
+
+Fișierul ortodox are circa 1700 evenimente. Dacă Google Calendar refuză importul, generează un interval mai scurt (vezi mai jos).
+
+---
+
+## Pentru dezvoltatori 💻
+
+Nu e nevoie de nicio bibliotecă externă, doar Python 3.
+
+```bash
+python3 generate_calendars.py                              # 2025–2040
+python3 generate_calendars.py --start 2025 --end 2060      # alt interval
+python3 generate_calendars.py --out-dir out                # alt folder de ieșire
+```
+
+Scriptul rulează un autotest (date cunoscute ale Paștelui, conversia iulian ↔ gregorian) înainte de a scrie fișierele.
+
+Cum modifici conținutul, toate în `generate_calendars.py`:
+
+- `LAICE`: sărbători laice cu dată fixă.
+- `FIXE`: praznice și sfinți cu dată fixă, în data **iuliană** (25 dec, nu 7 ian). Conversia în data civilă se face singură.
+- `MOBILE`: zile legate de Paște (decalaj în zile față de Paște).
+- `FERESTRE_DUMINICI` și `DUMINICI_NUMITE`: nume speciale pentru duminicile de după Rusalii.
+
+Folderul `_vechi/` conține scripturile și fișierele din prima versiune (cu bug-urile corectate acum), păstrate doar pentru referință.
+
+### Contribuie 🙌
+
+Ai găsit o sărbătoare lipsă sau o dată greșită? Deschide un „Issue” pe [GitHub](https://github.com/storm167/Sarbatori_Moldova/issues).
