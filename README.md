@@ -31,7 +31,9 @@ Zilele libere legale legate de biserică sunt marcate în descriere (7–8 ianua
 
 ## Cum le adaugi în calendar 🗓️
 
-1. Descarcă fișierele `.ics` de aici (butonul „Download raw file” pe GitHub).
+1. Descarcă fișierele `.ics`:
+   - [Sarbatori_Laice_Moldova.ics](https://raw.githubusercontent.com/storm167/Sarbatori_Moldova/master/Sarbatori_Laice_Moldova.ics)
+   - [Sarbatori_Ortodoxe_Moldova.ics](https://raw.githubusercontent.com/storm167/Sarbatori_Moldova/master/Sarbatori_Ortodoxe_Moldova.ics)
 2. Importă-le:
    - **Google Calendar**: [calendar.google.com](https://calendar.google.com) → Setări → *Import & export* → alege fișierul și calendarul de destinație.
    - **Apple Calendar**: dublu-click pe fișier (sau trimite-l pe iPhone prin AirDrop/e-mail) → „Adaugă în Calendar”.
