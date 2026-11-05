@@ -1,0 +1,2377 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//storm167//Sarbatori Moldova//RO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sărbători laice Moldova
+X-WR-CALDESC:Sărbători naționale și laice din Republica Moldova (calend
+ ar civil).
+BEGIN:VEVENT
+UID:laic-20250101-anul-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250102
+SUMMARY:Anul Nou
+DESCRIPTION:Prima zi a anului. Zi liberă legală în Republica Moldova (ve
+ rifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20250224-dragobete@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20250224
+DTEND;VALUE=DATE:20250225
+SUMMARY:Dragobete
+DESCRIPTION:Sărbătoare populară a iubirii.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20250301-ziua-martisorului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20250301
+DTEND;VALUE=DATE:20250302
+SUMMARY:Ziua Mărțișorului
+DESCRIPTION:Începutul primăverii\; se oferă mărțișoare.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20250308-ziua-internationala-a-femeii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20250308
+DTEND;VALUE=DATE:20250309
+SUMMARY:Ziua Internațională a Femeii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20250427-ziua-drapelului-de-stat@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20250427
+DTEND;VALUE=DATE:20250428
+SUMMARY:Ziua Drapelului de Stat
+DESCRIPTION:Ziua Drapelului de Stat al Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20250501-ziua-internationala-a-muncii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250502
+SUMMARY:Ziua Internațională a Muncii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20250509-ziua-europei-ziua-victoriei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20250509
+DTEND;VALUE=DATE:20250510
+SUMMARY:Ziua Europei / Ziua Victoriei
+DESCRIPTION:Ziua Europei\, Ziua Victoriei și a comemorării eroilor căzu
+ ți pentru Patrie. Zi liberă legală în Republica Moldova (verifică Cod
+ ul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20250601-ziua-internationala-a-copilului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20250601
+DTEND;VALUE=DATE:20250602
+SUMMARY:Ziua Internațională a Copilului
+CATEGORIES:Zi comemorativă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20250729-ziua-constitutiei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20250729
+DTEND;VALUE=DATE:20250730
+SUMMARY:Ziua Constituției
+DESCRIPTION:Ziua Constituției Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20250827-ziua-independentei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20250827
+DTEND;VALUE=DATE:20250828
+SUMMARY:Ziua Independenței
+DESCRIPTION:Declarația de Independență a Republicii Moldova (1991). Zi l
+ iberă legală în Republica Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20250831-limba-noastra@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20250831
+DTEND;VALUE=DATE:20250901
+SUMMARY:Limba Noastră
+DESCRIPTION:Ziua Limbii Române. Zi liberă legală în Republica Moldova (
+ verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20251004-ziua-nationala-a-vinului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20251004
+DTEND;VALUE=DATE:20251006
+SUMMARY:Ziua Națională a Vinului
+DESCRIPTION:Primul weekend din octombrie.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20251014-hramul-orasului-chisinau@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20251014
+DTEND;VALUE=DATE:20251015
+SUMMARY:Hramul orașului Chișinău
+DESCRIPTION:Ziua orașului Chișinău\, sărbătorită de Acoperământul M
+ aicii Domnului.
+CATEGORIES:Zi festivă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20251225-craciunul-pe-stil-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20251226
+SUMMARY:Crăciunul pe stil nou
+DESCRIPTION:Nașterea Domnului pe stil nou. Zi liberă legală în Republic
+ a Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20260101-anul-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Anul Nou
+DESCRIPTION:Prima zi a anului. Zi liberă legală în Republica Moldova (ve
+ rifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20260224-dragobete@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+SUMMARY:Dragobete
+DESCRIPTION:Sărbătoare populară a iubirii.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20260301-ziua-martisorului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:Ziua Mărțișorului
+DESCRIPTION:Începutul primăverii\; se oferă mărțișoare.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20260308-ziua-internationala-a-femeii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:Ziua Internațională a Femeii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20260427-ziua-drapelului-de-stat@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+SUMMARY:Ziua Drapelului de Stat
+DESCRIPTION:Ziua Drapelului de Stat al Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20260501-ziua-internationala-a-muncii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Ziua Internațională a Muncii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20260509-ziua-europei-ziua-victoriei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Ziua Europei / Ziua Victoriei
+DESCRIPTION:Ziua Europei\, Ziua Victoriei și a comemorării eroilor căzu
+ ți pentru Patrie. Zi liberă legală în Republica Moldova (verifică Cod
+ ul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20260601-ziua-internationala-a-copilului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Ziua Internațională a Copilului
+CATEGORIES:Zi comemorativă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20260729-ziua-constitutiei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:Ziua Constituției
+DESCRIPTION:Ziua Constituției Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20260827-ziua-independentei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Ziua Independenței
+DESCRIPTION:Declarația de Independență a Republicii Moldova (1991). Zi l
+ iberă legală în Republica Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20260831-limba-noastra@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Limba Noastră
+DESCRIPTION:Ziua Limbii Române. Zi liberă legală în Republica Moldova (
+ verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20261003-ziua-nationala-a-vinului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:Ziua Națională a Vinului
+DESCRIPTION:Primul weekend din octombrie.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20261014-hramul-orasului-chisinau@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Hramul orașului Chișinău
+DESCRIPTION:Ziua orașului Chișinău\, sărbătorită de Acoperământul M
+ aicii Domnului.
+CATEGORIES:Zi festivă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20261225-craciunul-pe-stil-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Crăciunul pe stil nou
+DESCRIPTION:Nașterea Domnului pe stil nou. Zi liberă legală în Republic
+ a Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20270101-anul-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Anul Nou
+DESCRIPTION:Prima zi a anului. Zi liberă legală în Republica Moldova (ve
+ rifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20270224-dragobete@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Dragobete
+DESCRIPTION:Sărbătoare populară a iubirii.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20270301-ziua-martisorului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Ziua Mărțișorului
+DESCRIPTION:Începutul primăverii\; se oferă mărțișoare.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20270308-ziua-internationala-a-femeii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Ziua Internațională a Femeii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20270427-ziua-drapelului-de-stat@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Ziua Drapelului de Stat
+DESCRIPTION:Ziua Drapelului de Stat al Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20270501-ziua-internationala-a-muncii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Ziua Internațională a Muncii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20270509-ziua-europei-ziua-victoriei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Ziua Europei / Ziua Victoriei
+DESCRIPTION:Ziua Europei\, Ziua Victoriei și a comemorării eroilor căzu
+ ți pentru Patrie. Zi liberă legală în Republica Moldova (verifică Cod
+ ul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20270601-ziua-internationala-a-copilului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Ziua Internațională a Copilului
+CATEGORIES:Zi comemorativă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20270729-ziua-constitutiei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:Ziua Constituției
+DESCRIPTION:Ziua Constituției Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20270827-ziua-independentei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Ziua Independenței
+DESCRIPTION:Declarația de Independență a Republicii Moldova (1991). Zi l
+ iberă legală în Republica Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20270831-limba-noastra@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Limba Noastră
+DESCRIPTION:Ziua Limbii Române. Zi liberă legală în Republica Moldova (
+ verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20271002-ziua-nationala-a-vinului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271004
+SUMMARY:Ziua Națională a Vinului
+DESCRIPTION:Primul weekend din octombrie.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20271014-hramul-orasului-chisinau@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:Hramul orașului Chișinău
+DESCRIPTION:Ziua orașului Chișinău\, sărbătorită de Acoperământul M
+ aicii Domnului.
+CATEGORIES:Zi festivă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20271225-craciunul-pe-stil-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:Crăciunul pe stil nou
+DESCRIPTION:Nașterea Domnului pe stil nou. Zi liberă legală în Republic
+ a Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20280101-anul-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Anul Nou
+DESCRIPTION:Prima zi a anului. Zi liberă legală în Republica Moldova (ve
+ rifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20280224-dragobete@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20280224
+DTEND;VALUE=DATE:20280225
+SUMMARY:Dragobete
+DESCRIPTION:Sărbătoare populară a iubirii.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20280301-ziua-martisorului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20280301
+DTEND;VALUE=DATE:20280302
+SUMMARY:Ziua Mărțișorului
+DESCRIPTION:Începutul primăverii\; se oferă mărțișoare.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20280308-ziua-internationala-a-femeii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20280308
+DTEND;VALUE=DATE:20280309
+SUMMARY:Ziua Internațională a Femeii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20280427-ziua-drapelului-de-stat@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20280427
+DTEND;VALUE=DATE:20280428
+SUMMARY:Ziua Drapelului de Stat
+DESCRIPTION:Ziua Drapelului de Stat al Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20280501-ziua-internationala-a-muncii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:Ziua Internațională a Muncii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20280509-ziua-europei-ziua-victoriei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20280509
+DTEND;VALUE=DATE:20280510
+SUMMARY:Ziua Europei / Ziua Victoriei
+DESCRIPTION:Ziua Europei\, Ziua Victoriei și a comemorării eroilor căzu
+ ți pentru Patrie. Zi liberă legală în Republica Moldova (verifică Cod
+ ul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20280601-ziua-internationala-a-copilului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20280601
+DTEND;VALUE=DATE:20280602
+SUMMARY:Ziua Internațională a Copilului
+CATEGORIES:Zi comemorativă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20280729-ziua-constitutiei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20280729
+DTEND;VALUE=DATE:20280730
+SUMMARY:Ziua Constituției
+DESCRIPTION:Ziua Constituției Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20280827-ziua-independentei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20280827
+DTEND;VALUE=DATE:20280828
+SUMMARY:Ziua Independenței
+DESCRIPTION:Declarația de Independență a Republicii Moldova (1991). Zi l
+ iberă legală în Republica Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20280831-limba-noastra@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20280831
+DTEND;VALUE=DATE:20280901
+SUMMARY:Limba Noastră
+DESCRIPTION:Ziua Limbii Române. Zi liberă legală în Republica Moldova (
+ verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20281007-ziua-nationala-a-vinului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20281007
+DTEND;VALUE=DATE:20281009
+SUMMARY:Ziua Națională a Vinului
+DESCRIPTION:Primul weekend din octombrie.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20281014-hramul-orasului-chisinau@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20281014
+DTEND;VALUE=DATE:20281015
+SUMMARY:Hramul orașului Chișinău
+DESCRIPTION:Ziua orașului Chișinău\, sărbătorită de Acoperământul M
+ aicii Domnului.
+CATEGORIES:Zi festivă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20281225-craciunul-pe-stil-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:Crăciunul pe stil nou
+DESCRIPTION:Nașterea Domnului pe stil nou. Zi liberă legală în Republic
+ a Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20290101-anul-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20290101
+DTEND;VALUE=DATE:20290102
+SUMMARY:Anul Nou
+DESCRIPTION:Prima zi a anului. Zi liberă legală în Republica Moldova (ve
+ rifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20290224-dragobete@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20290224
+DTEND;VALUE=DATE:20290225
+SUMMARY:Dragobete
+DESCRIPTION:Sărbătoare populară a iubirii.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20290301-ziua-martisorului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20290301
+DTEND;VALUE=DATE:20290302
+SUMMARY:Ziua Mărțișorului
+DESCRIPTION:Începutul primăverii\; se oferă mărțișoare.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20290308-ziua-internationala-a-femeii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20290308
+DTEND;VALUE=DATE:20290309
+SUMMARY:Ziua Internațională a Femeii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20290427-ziua-drapelului-de-stat@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20290427
+DTEND;VALUE=DATE:20290428
+SUMMARY:Ziua Drapelului de Stat
+DESCRIPTION:Ziua Drapelului de Stat al Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20290501-ziua-internationala-a-muncii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20290501
+DTEND;VALUE=DATE:20290502
+SUMMARY:Ziua Internațională a Muncii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20290509-ziua-europei-ziua-victoriei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20290509
+DTEND;VALUE=DATE:20290510
+SUMMARY:Ziua Europei / Ziua Victoriei
+DESCRIPTION:Ziua Europei\, Ziua Victoriei și a comemorării eroilor căzu
+ ți pentru Patrie. Zi liberă legală în Republica Moldova (verifică Cod
+ ul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20290601-ziua-internationala-a-copilului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20290601
+DTEND;VALUE=DATE:20290602
+SUMMARY:Ziua Internațională a Copilului
+CATEGORIES:Zi comemorativă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20290729-ziua-constitutiei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20290729
+DTEND;VALUE=DATE:20290730
+SUMMARY:Ziua Constituției
+DESCRIPTION:Ziua Constituției Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20290827-ziua-independentei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20290827
+DTEND;VALUE=DATE:20290828
+SUMMARY:Ziua Independenței
+DESCRIPTION:Declarația de Independență a Republicii Moldova (1991). Zi l
+ iberă legală în Republica Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20290831-limba-noastra@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20290831
+DTEND;VALUE=DATE:20290901
+SUMMARY:Limba Noastră
+DESCRIPTION:Ziua Limbii Române. Zi liberă legală în Republica Moldova (
+ verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20291006-ziua-nationala-a-vinului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20291006
+DTEND;VALUE=DATE:20291008
+SUMMARY:Ziua Națională a Vinului
+DESCRIPTION:Primul weekend din octombrie.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20291014-hramul-orasului-chisinau@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20291014
+DTEND;VALUE=DATE:20291015
+SUMMARY:Hramul orașului Chișinău
+DESCRIPTION:Ziua orașului Chișinău\, sărbătorită de Acoperământul M
+ aicii Domnului.
+CATEGORIES:Zi festivă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20291225-craciunul-pe-stil-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20291225
+DTEND;VALUE=DATE:20291226
+SUMMARY:Crăciunul pe stil nou
+DESCRIPTION:Nașterea Domnului pe stil nou. Zi liberă legală în Republic
+ a Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20300101-anul-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:Anul Nou
+DESCRIPTION:Prima zi a anului. Zi liberă legală în Republica Moldova (ve
+ rifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20300224-dragobete@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20300224
+DTEND;VALUE=DATE:20300225
+SUMMARY:Dragobete
+DESCRIPTION:Sărbătoare populară a iubirii.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20300301-ziua-martisorului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20300301
+DTEND;VALUE=DATE:20300302
+SUMMARY:Ziua Mărțișorului
+DESCRIPTION:Începutul primăverii\; se oferă mărțișoare.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20300308-ziua-internationala-a-femeii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20300308
+DTEND;VALUE=DATE:20300309
+SUMMARY:Ziua Internațională a Femeii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20300427-ziua-drapelului-de-stat@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20300427
+DTEND;VALUE=DATE:20300428
+SUMMARY:Ziua Drapelului de Stat
+DESCRIPTION:Ziua Drapelului de Stat al Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20300501-ziua-internationala-a-muncii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20300501
+DTEND;VALUE=DATE:20300502
+SUMMARY:Ziua Internațională a Muncii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20300509-ziua-europei-ziua-victoriei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20300509
+DTEND;VALUE=DATE:20300510
+SUMMARY:Ziua Europei / Ziua Victoriei
+DESCRIPTION:Ziua Europei\, Ziua Victoriei și a comemorării eroilor căzu
+ ți pentru Patrie. Zi liberă legală în Republica Moldova (verifică Cod
+ ul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20300601-ziua-internationala-a-copilului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20300601
+DTEND;VALUE=DATE:20300602
+SUMMARY:Ziua Internațională a Copilului
+CATEGORIES:Zi comemorativă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20300729-ziua-constitutiei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20300729
+DTEND;VALUE=DATE:20300730
+SUMMARY:Ziua Constituției
+DESCRIPTION:Ziua Constituției Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20300827-ziua-independentei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20300827
+DTEND;VALUE=DATE:20300828
+SUMMARY:Ziua Independenței
+DESCRIPTION:Declarația de Independență a Republicii Moldova (1991). Zi l
+ iberă legală în Republica Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20300831-limba-noastra@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20300831
+DTEND;VALUE=DATE:20300901
+SUMMARY:Limba Noastră
+DESCRIPTION:Ziua Limbii Române. Zi liberă legală în Republica Moldova (
+ verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20301005-ziua-nationala-a-vinului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20301005
+DTEND;VALUE=DATE:20301007
+SUMMARY:Ziua Națională a Vinului
+DESCRIPTION:Primul weekend din octombrie.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20301014-hramul-orasului-chisinau@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20301014
+DTEND;VALUE=DATE:20301015
+SUMMARY:Hramul orașului Chișinău
+DESCRIPTION:Ziua orașului Chișinău\, sărbătorită de Acoperământul M
+ aicii Domnului.
+CATEGORIES:Zi festivă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20301225-craciunul-pe-stil-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20301225
+DTEND;VALUE=DATE:20301226
+SUMMARY:Crăciunul pe stil nou
+DESCRIPTION:Nașterea Domnului pe stil nou. Zi liberă legală în Republic
+ a Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20310101-anul-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20310101
+DTEND;VALUE=DATE:20310102
+SUMMARY:Anul Nou
+DESCRIPTION:Prima zi a anului. Zi liberă legală în Republica Moldova (ve
+ rifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20310224-dragobete@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20310224
+DTEND;VALUE=DATE:20310225
+SUMMARY:Dragobete
+DESCRIPTION:Sărbătoare populară a iubirii.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20310301-ziua-martisorului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20310301
+DTEND;VALUE=DATE:20310302
+SUMMARY:Ziua Mărțișorului
+DESCRIPTION:Începutul primăverii\; se oferă mărțișoare.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20310308-ziua-internationala-a-femeii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20310308
+DTEND;VALUE=DATE:20310309
+SUMMARY:Ziua Internațională a Femeii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20310427-ziua-drapelului-de-stat@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20310427
+DTEND;VALUE=DATE:20310428
+SUMMARY:Ziua Drapelului de Stat
+DESCRIPTION:Ziua Drapelului de Stat al Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20310501-ziua-internationala-a-muncii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20310501
+DTEND;VALUE=DATE:20310502
+SUMMARY:Ziua Internațională a Muncii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20310509-ziua-europei-ziua-victoriei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20310509
+DTEND;VALUE=DATE:20310510
+SUMMARY:Ziua Europei / Ziua Victoriei
+DESCRIPTION:Ziua Europei\, Ziua Victoriei și a comemorării eroilor căzu
+ ți pentru Patrie. Zi liberă legală în Republica Moldova (verifică Cod
+ ul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20310601-ziua-internationala-a-copilului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20310601
+DTEND;VALUE=DATE:20310602
+SUMMARY:Ziua Internațională a Copilului
+CATEGORIES:Zi comemorativă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20310729-ziua-constitutiei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20310729
+DTEND;VALUE=DATE:20310730
+SUMMARY:Ziua Constituției
+DESCRIPTION:Ziua Constituției Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20310827-ziua-independentei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20310827
+DTEND;VALUE=DATE:20310828
+SUMMARY:Ziua Independenței
+DESCRIPTION:Declarația de Independență a Republicii Moldova (1991). Zi l
+ iberă legală în Republica Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20310831-limba-noastra@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20310831
+DTEND;VALUE=DATE:20310901
+SUMMARY:Limba Noastră
+DESCRIPTION:Ziua Limbii Române. Zi liberă legală în Republica Moldova (
+ verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20311004-ziua-nationala-a-vinului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20311004
+DTEND;VALUE=DATE:20311006
+SUMMARY:Ziua Națională a Vinului
+DESCRIPTION:Primul weekend din octombrie.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20311014-hramul-orasului-chisinau@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20311014
+DTEND;VALUE=DATE:20311015
+SUMMARY:Hramul orașului Chișinău
+DESCRIPTION:Ziua orașului Chișinău\, sărbătorită de Acoperământul M
+ aicii Domnului.
+CATEGORIES:Zi festivă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20311225-craciunul-pe-stil-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20311225
+DTEND;VALUE=DATE:20311226
+SUMMARY:Crăciunul pe stil nou
+DESCRIPTION:Nașterea Domnului pe stil nou. Zi liberă legală în Republic
+ a Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20320101-anul-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20320101
+DTEND;VALUE=DATE:20320102
+SUMMARY:Anul Nou
+DESCRIPTION:Prima zi a anului. Zi liberă legală în Republica Moldova (ve
+ rifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20320224-dragobete@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20320224
+DTEND;VALUE=DATE:20320225
+SUMMARY:Dragobete
+DESCRIPTION:Sărbătoare populară a iubirii.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20320301-ziua-martisorului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20320301
+DTEND;VALUE=DATE:20320302
+SUMMARY:Ziua Mărțișorului
+DESCRIPTION:Începutul primăverii\; se oferă mărțișoare.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20320308-ziua-internationala-a-femeii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20320308
+DTEND;VALUE=DATE:20320309
+SUMMARY:Ziua Internațională a Femeii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20320427-ziua-drapelului-de-stat@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20320427
+DTEND;VALUE=DATE:20320428
+SUMMARY:Ziua Drapelului de Stat
+DESCRIPTION:Ziua Drapelului de Stat al Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20320501-ziua-internationala-a-muncii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20320501
+DTEND;VALUE=DATE:20320502
+SUMMARY:Ziua Internațională a Muncii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20320509-ziua-europei-ziua-victoriei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20320509
+DTEND;VALUE=DATE:20320510
+SUMMARY:Ziua Europei / Ziua Victoriei
+DESCRIPTION:Ziua Europei\, Ziua Victoriei și a comemorării eroilor căzu
+ ți pentru Patrie. Zi liberă legală în Republica Moldova (verifică Cod
+ ul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20320601-ziua-internationala-a-copilului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20320601
+DTEND;VALUE=DATE:20320602
+SUMMARY:Ziua Internațională a Copilului
+CATEGORIES:Zi comemorativă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20320729-ziua-constitutiei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20320729
+DTEND;VALUE=DATE:20320730
+SUMMARY:Ziua Constituției
+DESCRIPTION:Ziua Constituției Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20320827-ziua-independentei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20320827
+DTEND;VALUE=DATE:20320828
+SUMMARY:Ziua Independenței
+DESCRIPTION:Declarația de Independență a Republicii Moldova (1991). Zi l
+ iberă legală în Republica Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20320831-limba-noastra@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20320831
+DTEND;VALUE=DATE:20320901
+SUMMARY:Limba Noastră
+DESCRIPTION:Ziua Limbii Române. Zi liberă legală în Republica Moldova (
+ verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20321002-ziua-nationala-a-vinului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20321002
+DTEND;VALUE=DATE:20321004
+SUMMARY:Ziua Națională a Vinului
+DESCRIPTION:Primul weekend din octombrie.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20321014-hramul-orasului-chisinau@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20321014
+DTEND;VALUE=DATE:20321015
+SUMMARY:Hramul orașului Chișinău
+DESCRIPTION:Ziua orașului Chișinău\, sărbătorită de Acoperământul M
+ aicii Domnului.
+CATEGORIES:Zi festivă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20321225-craciunul-pe-stil-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20321225
+DTEND;VALUE=DATE:20321226
+SUMMARY:Crăciunul pe stil nou
+DESCRIPTION:Nașterea Domnului pe stil nou. Zi liberă legală în Republic
+ a Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20330101-anul-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20330101
+DTEND;VALUE=DATE:20330102
+SUMMARY:Anul Nou
+DESCRIPTION:Prima zi a anului. Zi liberă legală în Republica Moldova (ve
+ rifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20330224-dragobete@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20330224
+DTEND;VALUE=DATE:20330225
+SUMMARY:Dragobete
+DESCRIPTION:Sărbătoare populară a iubirii.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20330301-ziua-martisorului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20330301
+DTEND;VALUE=DATE:20330302
+SUMMARY:Ziua Mărțișorului
+DESCRIPTION:Începutul primăverii\; se oferă mărțișoare.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20330308-ziua-internationala-a-femeii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20330308
+DTEND;VALUE=DATE:20330309
+SUMMARY:Ziua Internațională a Femeii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20330427-ziua-drapelului-de-stat@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20330427
+DTEND;VALUE=DATE:20330428
+SUMMARY:Ziua Drapelului de Stat
+DESCRIPTION:Ziua Drapelului de Stat al Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20330501-ziua-internationala-a-muncii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20330501
+DTEND;VALUE=DATE:20330502
+SUMMARY:Ziua Internațională a Muncii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20330509-ziua-europei-ziua-victoriei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20330509
+DTEND;VALUE=DATE:20330510
+SUMMARY:Ziua Europei / Ziua Victoriei
+DESCRIPTION:Ziua Europei\, Ziua Victoriei și a comemorării eroilor căzu
+ ți pentru Patrie. Zi liberă legală în Republica Moldova (verifică Cod
+ ul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20330601-ziua-internationala-a-copilului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20330601
+DTEND;VALUE=DATE:20330602
+SUMMARY:Ziua Internațională a Copilului
+CATEGORIES:Zi comemorativă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20330729-ziua-constitutiei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20330729
+DTEND;VALUE=DATE:20330730
+SUMMARY:Ziua Constituției
+DESCRIPTION:Ziua Constituției Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20330827-ziua-independentei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20330827
+DTEND;VALUE=DATE:20330828
+SUMMARY:Ziua Independenței
+DESCRIPTION:Declarația de Independență a Republicii Moldova (1991). Zi l
+ iberă legală în Republica Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20330831-limba-noastra@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20330831
+DTEND;VALUE=DATE:20330901
+SUMMARY:Limba Noastră
+DESCRIPTION:Ziua Limbii Române. Zi liberă legală în Republica Moldova (
+ verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20331001-ziua-nationala-a-vinului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20331001
+DTEND;VALUE=DATE:20331003
+SUMMARY:Ziua Națională a Vinului
+DESCRIPTION:Primul weekend din octombrie.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20331014-hramul-orasului-chisinau@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20331014
+DTEND;VALUE=DATE:20331015
+SUMMARY:Hramul orașului Chișinău
+DESCRIPTION:Ziua orașului Chișinău\, sărbătorită de Acoperământul M
+ aicii Domnului.
+CATEGORIES:Zi festivă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20331225-craciunul-pe-stil-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20331225
+DTEND;VALUE=DATE:20331226
+SUMMARY:Crăciunul pe stil nou
+DESCRIPTION:Nașterea Domnului pe stil nou. Zi liberă legală în Republic
+ a Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20340101-anul-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20340101
+DTEND;VALUE=DATE:20340102
+SUMMARY:Anul Nou
+DESCRIPTION:Prima zi a anului. Zi liberă legală în Republica Moldova (ve
+ rifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20340224-dragobete@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20340224
+DTEND;VALUE=DATE:20340225
+SUMMARY:Dragobete
+DESCRIPTION:Sărbătoare populară a iubirii.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20340301-ziua-martisorului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20340301
+DTEND;VALUE=DATE:20340302
+SUMMARY:Ziua Mărțișorului
+DESCRIPTION:Începutul primăverii\; se oferă mărțișoare.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20340308-ziua-internationala-a-femeii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20340308
+DTEND;VALUE=DATE:20340309
+SUMMARY:Ziua Internațională a Femeii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20340427-ziua-drapelului-de-stat@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20340427
+DTEND;VALUE=DATE:20340428
+SUMMARY:Ziua Drapelului de Stat
+DESCRIPTION:Ziua Drapelului de Stat al Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20340501-ziua-internationala-a-muncii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20340501
+DTEND;VALUE=DATE:20340502
+SUMMARY:Ziua Internațională a Muncii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20340509-ziua-europei-ziua-victoriei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20340509
+DTEND;VALUE=DATE:20340510
+SUMMARY:Ziua Europei / Ziua Victoriei
+DESCRIPTION:Ziua Europei\, Ziua Victoriei și a comemorării eroilor căzu
+ ți pentru Patrie. Zi liberă legală în Republica Moldova (verifică Cod
+ ul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20340601-ziua-internationala-a-copilului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20340601
+DTEND;VALUE=DATE:20340602
+SUMMARY:Ziua Internațională a Copilului
+CATEGORIES:Zi comemorativă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20340729-ziua-constitutiei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20340729
+DTEND;VALUE=DATE:20340730
+SUMMARY:Ziua Constituției
+DESCRIPTION:Ziua Constituției Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20340827-ziua-independentei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20340827
+DTEND;VALUE=DATE:20340828
+SUMMARY:Ziua Independenței
+DESCRIPTION:Declarația de Independență a Republicii Moldova (1991). Zi l
+ iberă legală în Republica Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20340831-limba-noastra@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20340831
+DTEND;VALUE=DATE:20340901
+SUMMARY:Limba Noastră
+DESCRIPTION:Ziua Limbii Române. Zi liberă legală în Republica Moldova (
+ verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20341007-ziua-nationala-a-vinului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20341007
+DTEND;VALUE=DATE:20341009
+SUMMARY:Ziua Națională a Vinului
+DESCRIPTION:Primul weekend din octombrie.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20341014-hramul-orasului-chisinau@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20341014
+DTEND;VALUE=DATE:20341015
+SUMMARY:Hramul orașului Chișinău
+DESCRIPTION:Ziua orașului Chișinău\, sărbătorită de Acoperământul M
+ aicii Domnului.
+CATEGORIES:Zi festivă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20341225-craciunul-pe-stil-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20341225
+DTEND;VALUE=DATE:20341226
+SUMMARY:Crăciunul pe stil nou
+DESCRIPTION:Nașterea Domnului pe stil nou. Zi liberă legală în Republic
+ a Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20350101-anul-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20350101
+DTEND;VALUE=DATE:20350102
+SUMMARY:Anul Nou
+DESCRIPTION:Prima zi a anului. Zi liberă legală în Republica Moldova (ve
+ rifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20350224-dragobete@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20350224
+DTEND;VALUE=DATE:20350225
+SUMMARY:Dragobete
+DESCRIPTION:Sărbătoare populară a iubirii.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20350301-ziua-martisorului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20350301
+DTEND;VALUE=DATE:20350302
+SUMMARY:Ziua Mărțișorului
+DESCRIPTION:Începutul primăverii\; se oferă mărțișoare.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20350308-ziua-internationala-a-femeii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20350308
+DTEND;VALUE=DATE:20350309
+SUMMARY:Ziua Internațională a Femeii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20350427-ziua-drapelului-de-stat@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20350427
+DTEND;VALUE=DATE:20350428
+SUMMARY:Ziua Drapelului de Stat
+DESCRIPTION:Ziua Drapelului de Stat al Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20350501-ziua-internationala-a-muncii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20350501
+DTEND;VALUE=DATE:20350502
+SUMMARY:Ziua Internațională a Muncii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20350509-ziua-europei-ziua-victoriei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20350509
+DTEND;VALUE=DATE:20350510
+SUMMARY:Ziua Europei / Ziua Victoriei
+DESCRIPTION:Ziua Europei\, Ziua Victoriei și a comemorării eroilor căzu
+ ți pentru Patrie. Zi liberă legală în Republica Moldova (verifică Cod
+ ul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20350601-ziua-internationala-a-copilului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20350601
+DTEND;VALUE=DATE:20350602
+SUMMARY:Ziua Internațională a Copilului
+CATEGORIES:Zi comemorativă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20350729-ziua-constitutiei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20350729
+DTEND;VALUE=DATE:20350730
+SUMMARY:Ziua Constituției
+DESCRIPTION:Ziua Constituției Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20350827-ziua-independentei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20350827
+DTEND;VALUE=DATE:20350828
+SUMMARY:Ziua Independenței
+DESCRIPTION:Declarația de Independență a Republicii Moldova (1991). Zi l
+ iberă legală în Republica Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20350831-limba-noastra@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20350831
+DTEND;VALUE=DATE:20350901
+SUMMARY:Limba Noastră
+DESCRIPTION:Ziua Limbii Române. Zi liberă legală în Republica Moldova (
+ verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20351006-ziua-nationala-a-vinului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20351006
+DTEND;VALUE=DATE:20351008
+SUMMARY:Ziua Națională a Vinului
+DESCRIPTION:Primul weekend din octombrie.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20351014-hramul-orasului-chisinau@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20351014
+DTEND;VALUE=DATE:20351015
+SUMMARY:Hramul orașului Chișinău
+DESCRIPTION:Ziua orașului Chișinău\, sărbătorită de Acoperământul M
+ aicii Domnului.
+CATEGORIES:Zi festivă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20351225-craciunul-pe-stil-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20351225
+DTEND;VALUE=DATE:20351226
+SUMMARY:Crăciunul pe stil nou
+DESCRIPTION:Nașterea Domnului pe stil nou. Zi liberă legală în Republic
+ a Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20360101-anul-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20360101
+DTEND;VALUE=DATE:20360102
+SUMMARY:Anul Nou
+DESCRIPTION:Prima zi a anului. Zi liberă legală în Republica Moldova (ve
+ rifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20360224-dragobete@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20360224
+DTEND;VALUE=DATE:20360225
+SUMMARY:Dragobete
+DESCRIPTION:Sărbătoare populară a iubirii.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20360301-ziua-martisorului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20360301
+DTEND;VALUE=DATE:20360302
+SUMMARY:Ziua Mărțișorului
+DESCRIPTION:Începutul primăverii\; se oferă mărțișoare.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20360308-ziua-internationala-a-femeii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20360308
+DTEND;VALUE=DATE:20360309
+SUMMARY:Ziua Internațională a Femeii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20360427-ziua-drapelului-de-stat@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20360427
+DTEND;VALUE=DATE:20360428
+SUMMARY:Ziua Drapelului de Stat
+DESCRIPTION:Ziua Drapelului de Stat al Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20360501-ziua-internationala-a-muncii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20360501
+DTEND;VALUE=DATE:20360502
+SUMMARY:Ziua Internațională a Muncii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20360509-ziua-europei-ziua-victoriei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20360509
+DTEND;VALUE=DATE:20360510
+SUMMARY:Ziua Europei / Ziua Victoriei
+DESCRIPTION:Ziua Europei\, Ziua Victoriei și a comemorării eroilor căzu
+ ți pentru Patrie. Zi liberă legală în Republica Moldova (verifică Cod
+ ul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20360601-ziua-internationala-a-copilului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20360601
+DTEND;VALUE=DATE:20360602
+SUMMARY:Ziua Internațională a Copilului
+CATEGORIES:Zi comemorativă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20360729-ziua-constitutiei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20360729
+DTEND;VALUE=DATE:20360730
+SUMMARY:Ziua Constituției
+DESCRIPTION:Ziua Constituției Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20360827-ziua-independentei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20360827
+DTEND;VALUE=DATE:20360828
+SUMMARY:Ziua Independenței
+DESCRIPTION:Declarația de Independență a Republicii Moldova (1991). Zi l
+ iberă legală în Republica Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20360831-limba-noastra@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20360831
+DTEND;VALUE=DATE:20360901
+SUMMARY:Limba Noastră
+DESCRIPTION:Ziua Limbii Române. Zi liberă legală în Republica Moldova (
+ verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20361004-ziua-nationala-a-vinului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20361004
+DTEND;VALUE=DATE:20361006
+SUMMARY:Ziua Națională a Vinului
+DESCRIPTION:Primul weekend din octombrie.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20361014-hramul-orasului-chisinau@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20361014
+DTEND;VALUE=DATE:20361015
+SUMMARY:Hramul orașului Chișinău
+DESCRIPTION:Ziua orașului Chișinău\, sărbătorită de Acoperământul M
+ aicii Domnului.
+CATEGORIES:Zi festivă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20361225-craciunul-pe-stil-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20361225
+DTEND;VALUE=DATE:20361226
+SUMMARY:Crăciunul pe stil nou
+DESCRIPTION:Nașterea Domnului pe stil nou. Zi liberă legală în Republic
+ a Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20370101-anul-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20370101
+DTEND;VALUE=DATE:20370102
+SUMMARY:Anul Nou
+DESCRIPTION:Prima zi a anului. Zi liberă legală în Republica Moldova (ve
+ rifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20370224-dragobete@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20370224
+DTEND;VALUE=DATE:20370225
+SUMMARY:Dragobete
+DESCRIPTION:Sărbătoare populară a iubirii.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20370301-ziua-martisorului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20370301
+DTEND;VALUE=DATE:20370302
+SUMMARY:Ziua Mărțișorului
+DESCRIPTION:Începutul primăverii\; se oferă mărțișoare.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20370308-ziua-internationala-a-femeii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20370308
+DTEND;VALUE=DATE:20370309
+SUMMARY:Ziua Internațională a Femeii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20370427-ziua-drapelului-de-stat@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20370427
+DTEND;VALUE=DATE:20370428
+SUMMARY:Ziua Drapelului de Stat
+DESCRIPTION:Ziua Drapelului de Stat al Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20370501-ziua-internationala-a-muncii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20370501
+DTEND;VALUE=DATE:20370502
+SUMMARY:Ziua Internațională a Muncii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20370509-ziua-europei-ziua-victoriei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20370509
+DTEND;VALUE=DATE:20370510
+SUMMARY:Ziua Europei / Ziua Victoriei
+DESCRIPTION:Ziua Europei\, Ziua Victoriei și a comemorării eroilor căzu
+ ți pentru Patrie. Zi liberă legală în Republica Moldova (verifică Cod
+ ul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20370601-ziua-internationala-a-copilului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20370601
+DTEND;VALUE=DATE:20370602
+SUMMARY:Ziua Internațională a Copilului
+CATEGORIES:Zi comemorativă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20370729-ziua-constitutiei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20370729
+DTEND;VALUE=DATE:20370730
+SUMMARY:Ziua Constituției
+DESCRIPTION:Ziua Constituției Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20370827-ziua-independentei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20370827
+DTEND;VALUE=DATE:20370828
+SUMMARY:Ziua Independenței
+DESCRIPTION:Declarația de Independență a Republicii Moldova (1991). Zi l
+ iberă legală în Republica Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20370831-limba-noastra@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20370831
+DTEND;VALUE=DATE:20370901
+SUMMARY:Limba Noastră
+DESCRIPTION:Ziua Limbii Române. Zi liberă legală în Republica Moldova (
+ verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20371003-ziua-nationala-a-vinului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20371003
+DTEND;VALUE=DATE:20371005
+SUMMARY:Ziua Națională a Vinului
+DESCRIPTION:Primul weekend din octombrie.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20371014-hramul-orasului-chisinau@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20371014
+DTEND;VALUE=DATE:20371015
+SUMMARY:Hramul orașului Chișinău
+DESCRIPTION:Ziua orașului Chișinău\, sărbătorită de Acoperământul M
+ aicii Domnului.
+CATEGORIES:Zi festivă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20371225-craciunul-pe-stil-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20371225
+DTEND;VALUE=DATE:20371226
+SUMMARY:Crăciunul pe stil nou
+DESCRIPTION:Nașterea Domnului pe stil nou. Zi liberă legală în Republic
+ a Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20380101-anul-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20380101
+DTEND;VALUE=DATE:20380102
+SUMMARY:Anul Nou
+DESCRIPTION:Prima zi a anului. Zi liberă legală în Republica Moldova (ve
+ rifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20380224-dragobete@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20380224
+DTEND;VALUE=DATE:20380225
+SUMMARY:Dragobete
+DESCRIPTION:Sărbătoare populară a iubirii.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20380301-ziua-martisorului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20380301
+DTEND;VALUE=DATE:20380302
+SUMMARY:Ziua Mărțișorului
+DESCRIPTION:Începutul primăverii\; se oferă mărțișoare.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20380308-ziua-internationala-a-femeii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20380308
+DTEND;VALUE=DATE:20380309
+SUMMARY:Ziua Internațională a Femeii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20380427-ziua-drapelului-de-stat@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20380427
+DTEND;VALUE=DATE:20380428
+SUMMARY:Ziua Drapelului de Stat
+DESCRIPTION:Ziua Drapelului de Stat al Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20380501-ziua-internationala-a-muncii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20380501
+DTEND;VALUE=DATE:20380502
+SUMMARY:Ziua Internațională a Muncii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20380509-ziua-europei-ziua-victoriei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20380509
+DTEND;VALUE=DATE:20380510
+SUMMARY:Ziua Europei / Ziua Victoriei
+DESCRIPTION:Ziua Europei\, Ziua Victoriei și a comemorării eroilor căzu
+ ți pentru Patrie. Zi liberă legală în Republica Moldova (verifică Cod
+ ul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20380601-ziua-internationala-a-copilului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20380601
+DTEND;VALUE=DATE:20380602
+SUMMARY:Ziua Internațională a Copilului
+CATEGORIES:Zi comemorativă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20380729-ziua-constitutiei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20380729
+DTEND;VALUE=DATE:20380730
+SUMMARY:Ziua Constituției
+DESCRIPTION:Ziua Constituției Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20380827-ziua-independentei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20380827
+DTEND;VALUE=DATE:20380828
+SUMMARY:Ziua Independenței
+DESCRIPTION:Declarația de Independență a Republicii Moldova (1991). Zi l
+ iberă legală în Republica Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20380831-limba-noastra@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20380831
+DTEND;VALUE=DATE:20380901
+SUMMARY:Limba Noastră
+DESCRIPTION:Ziua Limbii Române. Zi liberă legală în Republica Moldova (
+ verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20381002-ziua-nationala-a-vinului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20381002
+DTEND;VALUE=DATE:20381004
+SUMMARY:Ziua Națională a Vinului
+DESCRIPTION:Primul weekend din octombrie.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20381014-hramul-orasului-chisinau@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20381014
+DTEND;VALUE=DATE:20381015
+SUMMARY:Hramul orașului Chișinău
+DESCRIPTION:Ziua orașului Chișinău\, sărbătorită de Acoperământul M
+ aicii Domnului.
+CATEGORIES:Zi festivă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20381225-craciunul-pe-stil-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20381225
+DTEND;VALUE=DATE:20381226
+SUMMARY:Crăciunul pe stil nou
+DESCRIPTION:Nașterea Domnului pe stil nou. Zi liberă legală în Republic
+ a Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20390101-anul-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20390101
+DTEND;VALUE=DATE:20390102
+SUMMARY:Anul Nou
+DESCRIPTION:Prima zi a anului. Zi liberă legală în Republica Moldova (ve
+ rifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20390224-dragobete@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20390224
+DTEND;VALUE=DATE:20390225
+SUMMARY:Dragobete
+DESCRIPTION:Sărbătoare populară a iubirii.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20390301-ziua-martisorului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20390301
+DTEND;VALUE=DATE:20390302
+SUMMARY:Ziua Mărțișorului
+DESCRIPTION:Începutul primăverii\; se oferă mărțișoare.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20390308-ziua-internationala-a-femeii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20390308
+DTEND;VALUE=DATE:20390309
+SUMMARY:Ziua Internațională a Femeii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20390427-ziua-drapelului-de-stat@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20390427
+DTEND;VALUE=DATE:20390428
+SUMMARY:Ziua Drapelului de Stat
+DESCRIPTION:Ziua Drapelului de Stat al Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20390501-ziua-internationala-a-muncii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20390501
+DTEND;VALUE=DATE:20390502
+SUMMARY:Ziua Internațională a Muncii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20390509-ziua-europei-ziua-victoriei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20390509
+DTEND;VALUE=DATE:20390510
+SUMMARY:Ziua Europei / Ziua Victoriei
+DESCRIPTION:Ziua Europei\, Ziua Victoriei și a comemorării eroilor căzu
+ ți pentru Patrie. Zi liberă legală în Republica Moldova (verifică Cod
+ ul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20390601-ziua-internationala-a-copilului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20390601
+DTEND;VALUE=DATE:20390602
+SUMMARY:Ziua Internațională a Copilului
+CATEGORIES:Zi comemorativă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20390729-ziua-constitutiei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20390729
+DTEND;VALUE=DATE:20390730
+SUMMARY:Ziua Constituției
+DESCRIPTION:Ziua Constituției Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20390827-ziua-independentei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20390827
+DTEND;VALUE=DATE:20390828
+SUMMARY:Ziua Independenței
+DESCRIPTION:Declarația de Independență a Republicii Moldova (1991). Zi l
+ iberă legală în Republica Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20390831-limba-noastra@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20390831
+DTEND;VALUE=DATE:20390901
+SUMMARY:Limba Noastră
+DESCRIPTION:Ziua Limbii Române. Zi liberă legală în Republica Moldova (
+ verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20391001-ziua-nationala-a-vinului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20391001
+DTEND;VALUE=DATE:20391003
+SUMMARY:Ziua Națională a Vinului
+DESCRIPTION:Primul weekend din octombrie.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20391014-hramul-orasului-chisinau@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20391014
+DTEND;VALUE=DATE:20391015
+SUMMARY:Hramul orașului Chișinău
+DESCRIPTION:Ziua orașului Chișinău\, sărbătorită de Acoperământul M
+ aicii Domnului.
+CATEGORIES:Zi festivă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20391225-craciunul-pe-stil-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20391225
+DTEND;VALUE=DATE:20391226
+SUMMARY:Crăciunul pe stil nou
+DESCRIPTION:Nașterea Domnului pe stil nou. Zi liberă legală în Republic
+ a Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20400101-anul-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20400101
+DTEND;VALUE=DATE:20400102
+SUMMARY:Anul Nou
+DESCRIPTION:Prima zi a anului. Zi liberă legală în Republica Moldova (ve
+ rifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20400224-dragobete@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20400224
+DTEND;VALUE=DATE:20400225
+SUMMARY:Dragobete
+DESCRIPTION:Sărbătoare populară a iubirii.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20400301-ziua-martisorului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20400301
+DTEND;VALUE=DATE:20400302
+SUMMARY:Ziua Mărțișorului
+DESCRIPTION:Începutul primăverii\; se oferă mărțișoare.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20400308-ziua-internationala-a-femeii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20400308
+DTEND;VALUE=DATE:20400309
+SUMMARY:Ziua Internațională a Femeii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20400427-ziua-drapelului-de-stat@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20400427
+DTEND;VALUE=DATE:20400428
+SUMMARY:Ziua Drapelului de Stat
+DESCRIPTION:Ziua Drapelului de Stat al Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20400501-ziua-internationala-a-muncii@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20400501
+DTEND;VALUE=DATE:20400502
+SUMMARY:Ziua Internațională a Muncii
+DESCRIPTION:Zi liberă legală în Republica Moldova (verifică Codul munci
+ i\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20400509-ziua-europei-ziua-victoriei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20400509
+DTEND;VALUE=DATE:20400510
+SUMMARY:Ziua Europei / Ziua Victoriei
+DESCRIPTION:Ziua Europei\, Ziua Victoriei și a comemorării eroilor căzu
+ ți pentru Patrie. Zi liberă legală în Republica Moldova (verifică Cod
+ ul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20400601-ziua-internationala-a-copilului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20400601
+DTEND;VALUE=DATE:20400602
+SUMMARY:Ziua Internațională a Copilului
+CATEGORIES:Zi comemorativă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20400729-ziua-constitutiei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20400729
+DTEND;VALUE=DATE:20400730
+SUMMARY:Ziua Constituției
+DESCRIPTION:Ziua Constituției Republicii Moldova.
+CATEGORIES:Zi națională
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20400827-ziua-independentei@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20400827
+DTEND;VALUE=DATE:20400828
+SUMMARY:Ziua Independenței
+DESCRIPTION:Declarația de Independență a Republicii Moldova (1991). Zi l
+ iberă legală în Republica Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20400831-limba-noastra@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20400831
+DTEND;VALUE=DATE:20400901
+SUMMARY:Limba Noastră
+DESCRIPTION:Ziua Limbii Române. Zi liberă legală în Republica Moldova (
+ verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20401006-ziua-nationala-a-vinului@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20401006
+DTEND;VALUE=DATE:20401008
+SUMMARY:Ziua Națională a Vinului
+DESCRIPTION:Primul weekend din octombrie.
+CATEGORIES:Tradiție
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20401014-hramul-orasului-chisinau@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20401014
+DTEND;VALUE=DATE:20401015
+SUMMARY:Hramul orașului Chișinău
+DESCRIPTION:Ziua orașului Chișinău\, sărbătorită de Acoperământul M
+ aicii Domnului.
+CATEGORIES:Zi festivă
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:laic-20401225-craciunul-pe-stil-nou@sarbatori-moldova
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20401225
+DTEND;VALUE=DATE:20401226
+SUMMARY:Crăciunul pe stil nou
+DESCRIPTION:Nașterea Domnului pe stil nou. Zi liberă legală în Republic
+ a Moldova (verifică Codul muncii\, art. 111).
+CATEGORIES:Zi liberă
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
